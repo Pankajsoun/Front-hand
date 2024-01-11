@@ -1,2 +1,5 @@
 let js = 'amazing';
-if (js=='amazing') alert('java script is fun');
+console.log (2+4-2-4+87);
+console.log(js);
+console.log('Pankaj');
+console.log("Soun");
