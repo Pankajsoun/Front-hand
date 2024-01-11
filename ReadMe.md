@@ -1,0 +1,1 @@
+This is JavaScript front Hand project for my learning
